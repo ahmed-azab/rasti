@@ -1,0 +1,166 @@
+@media (min-width: 0px) {
+
+/*this open comment for PORTFOLIOS classes  section*/
+          .PORTFOLIOS .nav-tabs{
+            margin-left: 20px;
+    }
+    .pro-item .rgbaHoverItem .svg-inline--fa{
+        margin-top: 200px;
+        margin-left: 210px;
+    }
+    .discrption{
+        margin-top: 100px
+    }
+    .PORTFOLIOS .btn:not(:disabled):not(.disabled){
+    margin-left: 35%;
+}
+/*this end comment for PORTFOLIOS classes  section*/
+/*this open comment for carsoule section  */ 
+    .w-100{
+        height: 530px
+    } 
+    .carousel-item .btn:not(:disabled):not(.disabled){
+        margin-left: 35%;
+    }
+/*this end comment for carsoule section  */  
+    .OUR-TEAM .personContent ul {
+    margin-left: -38px;
+    }
+    .t-postion-l,.t-postion-r{
+        display: none;
+    }
+   
+    
+}
+
+
+
+@media (min-width: 576px) { /*________*/
+
+/*this open comment for carsoule section  */ 
+  
+    .w-100{
+        height: 455px
+    }
+   .carousel-item .btn:not(:disabled):not(.disabled){
+        margin-left: 40%;
+    }
+/*this end comment for carsoule section  */ 
+
+/*_____________*/
+    .PORTFOLIOS .nav-tabs{
+    margin-left: 90px;
+        }
+    .pro-item .rgbaHoverItem .svg-inline--fa{
+        margin-top: 250px;
+        margin-left: 250px;
+        }
+    .discrption{
+        margin-top: 130px
+        }
+    .OUR-TEAM .personContent ul {
+        margin-left: -40px;
+    }
+     .t-postion-l,.t-postion-r{
+        display: none;
+    }
+    
+ }
+
+
+@media (min-width: 768px) { /*_______*/
+ 
+/*this open comment for PORTFOLIOS classes  section*/
+        .PORTFOLIOS .nav-tabs{
+         margin-left: 160px;
+        }
+    .pro-item .rgbaHoverItem .svg-inline--fa{
+        margin-top: 100px;
+        margin-left: 90px;
+        }
+    .discrption{
+        margin-top: 30px
+        }
+    .PORTFOLIOS .btn:not(:disabled):not(.disabled){
+    margin-left: 40%;
+    }
+/*this end comment for PORTFOLIOS classes  section*/
+/*this end comment for PORTFOLIOS classes  section*/
+    .OUR-TEAM .personContent ul {
+        margin-left: -50px;
+    }
+     .t-postion-l,.t-postion-r{
+        display: none;
+    }
+
+}/*_______*/
+
+
+
+
+
+
+@media (min-width: 992px) { /*_______*/
+
+/*this open comment for PORTFOLIOS classes  section*/
+        .PORTFOLIOS .nav-tabs{
+            margin-left: 220px;
+    }
+    .pro-item .rgbaHoverItem .svg-inline--fa{
+        margin-top: 150px;
+        margin-left: 140px;
+    }
+    .discrption{
+        margin-top: 30px
+    }
+    .PORTFOLIOS .btn:not(:disabled):not(.disabled){
+    margin-left: 42%;
+}
+/*this end comment for PORTFOLIOS classes  section*/
+    .OUR-TEAM .personContent ul {
+    margin-left: -30px;
+    }
+     .t-postion-l,.t-postion-r{
+        display: none;
+    }
+
+}/*_______*/
+
+
+
+
+
+
+@media (min-width: 1200px) {/*_______*/
+
+/*this open comment for PORTFOLIOS classes  section*/
+          .PORTFOLIOS .nav-tabs{
+    margin-left: 450px;
+    }
+    .pro-item .rgbaHoverItem .svg-inline--fa{
+        margin-top: 175px;
+        margin-left: 170px;
+    }
+    .discrption{
+        margin-top: 100px;
+    }
+    .PORTFOLIOS .btn:not(:disabled):not(.disabled){
+    margin-left: 44%;
+}
+/*this end comment for PORTFOLIOS classes  section*/
+
+/*this open comment for carsoule section  */
+ .w-100{
+        height: 730px
+    } 
+    .carousel-item .btn:not(:disabled):not(.disabled){
+        margin-left: 45%;
+    }
+/*this end comment for carsoule section  */   
+    .OUR-TEAM .personContent ul {
+    margin-left: -24px;
+    }
+     .t-postion-l,.t-postion-r{
+        display: block;
+    }
+}/*_______*/

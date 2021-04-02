@@ -1,0 +1,48 @@
+/*color*/  
+.navbar-brand,.FEATURES h6,.cyrical svg:not(:root).svg-inline--fa,.about-us h6,.our-skills h6,.CHOOSE-US h6,.services h6,.PORTFOLIOS h3,.count-item .svg-inline--fa,.OUR-TEAM h6,.OUR-TEAM .personContent h3,.check h6,.check .check-item h5,.TESTIMONIALS h6,.cyricle-TESTIMONIALS svg:not(:root).svg-inline--fa,.BLOG h6,.contact-us h6,.footer .Quick-Link a:hover,.video .rgba-video .circle-item .svg-inline--fa,.deffrent-navlink,#item{
+    color: #f9bf26 !important;
+}
+
+/*hover color*/
+
+.nav-link:hover,.active a,.border-col:hover,.BLOG .discrption-blog a:hover,.footer .Quick-Link a:hover,.nav-link:hover,#item:hover{
+    color:  #f9bf26 !important; 
+}
+
+ 
+/*background */
+.about-us button,.rgba-interface button,.progress .progress-bar,.cy-list li,.check .check-item button,.contact-us form button,.tool-box .icon-setting,.scroll {
+    background: #f9bf26;
+}
+/*hover background*/
+.service-item:hover,.OUR-TEAM .personContent ul li:hover,.cyricle-TESTIMONIALS:hover,.facebook:hover,.twitter:hover,.linked-in:hover,.pinterest:hover,.video .rgba-video .circle-item:hover{
+    background: #f9bf26;
+}
+
+
+
+/*border*/
+.PORTFOLIOS .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active,.cyricle-TESTIMONIALS{
+    border-bottom: 2px solid #f9bf26;  
+}
+
+/*hover border*/
+.PORTFOLIOS .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+    border-bottom: 2px solid #f9bf26;
+}
+
+
+
+
+
+.cyricle-TESTIMONIALS{
+    border: 1px solid #f9bf26;
+}
+
+
+
+
+.border-col:hover,.check-item:hover{
+    border: 2px solid #f9bf26;
+}
+
